@@ -1,0 +1,16 @@
+.red-div {
+    background-color:red;
+    height:200px;
+    width:150px;
+    margin-right:60px
+}
+.blue-div {
+    background-color:blue;
+    height:200px;
+    width:150px;
+    margin-right:60px
+}
+
+.div-pai {
+    display: flex;
+}
